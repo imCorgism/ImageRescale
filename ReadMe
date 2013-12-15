@@ -1,0 +1,11 @@
+ImageRescale
+==============================
+
+About: 
+Group rescaling of images using bicubic interpolation
+
+Procedure to use:
+1. Put your original images to be rescaled in an input directory. 
+2. Run "ImageRescale", in Eclipse, right-click on "ImageRescale" in the Package Explorer View and select "Run As Java Application"
+3. Enter data for "Enter the input file directory :", "Enter the output file directory :" & "Enter the scale factor :".
+4. Rescaled versions of the images appear in output directory.
